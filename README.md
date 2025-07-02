@@ -96,5 +96,8 @@ This Power BI dashboard presents a **comprehensive summary of patient waitlist t
 For questions, feedback, or collaboration:
 **Name:** Saru Gongala  
 
+## 📬 Connect With Me
+*Saraswathi | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/saraswathi-gongala-6249a9137/)
 ---
 
