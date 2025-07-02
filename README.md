@@ -16,6 +16,10 @@ This Power BI dashboard presents a **comprehensive summary of patient waitlist t
   - Medical specialties (e.g., Paediatric Orthopaedic, A&E, Cardiology, Dermatology)
 
 ---
+## 📷 Screenshot
+![Patient Waitlist Dashboard](https://github.com/user-attachments/assets/336f3280-df16-4dc4-9e1f-daf5991be4ab)
+
+---
 
 ## 📈 Key Visuals Used
 
@@ -82,12 +86,6 @@ This Power BI dashboard presents a **comprehensive summary of patient waitlist t
 - Include filters for **hospital location** or **facility type**.
 - Add **forecasting trends** based on historical patterns.
 - Implement **conditional alerts** for specialties breaching SLA wait times.
-
----
-
-## 📷 Screenshot
-
-![Patient Waitlist Dashboard](./2ca8845b-dbea-4aa6-87d3-469dff509fd3.png)
 
 ---
 
